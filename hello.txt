@@ -11,6 +11,6 @@ Hello World
 Hello World
 Hello World
 Hello World
-Hello Git  master test
+Hello Git  
 Hello Td
-Hello Branch 1  hot-fix test
+Hello Branch 1 master test
